@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'postgres',
         'USER': 'bhagyaraju',
         'PASSWORD': 'bxvHwC@9821',
-        'HOST': 'test-azure.postgres.database.azure.com',
+        'HOST': 'azure-postgres-db.postgres.database.azure.com',
         'PORT': '5432',
         'database': 'test'
     }
